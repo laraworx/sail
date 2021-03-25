@@ -1,0 +1,13 @@
+{
+    "name": "laraworx/sail",
+    "description": "Runtime for Laravel Sail",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew Moneron",
+            "email": "andrewmoneron@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
